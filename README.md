@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the intersect
 | [Multi-Agent-Chatbot](https://github.com/Rohith-AI-HUB/Multi-Agent-Chatbot) | Intelligent chatbot system using multiple agents for complex conversations | Python, JavaScript |
 | [Feedback-APP](https://github.com/Rohith-AI-HUB/Feedback-APP) | End-to-end feedback management application | JavaScript, CSS, HTML |
 | [S.P.E.A.R](https://github.com/Rohith-AI-HUB/S.P.E.A.R) | Security-focused web project | JavaScript, CSS, HTML |
-| [portfolio](https://github.com/Rohith-AI-HUB/portfolio) | My personal portfolio, built with a modern stack | TypeScript, CSS |
-| [Java-Learning-Part1](https://github.com/Rohith-AI-HUB/Java-Learning-Part1) | My journey learning Java, with notes and code samples | Java |
+| [jarvis](https://github.com/Rohith-AI-HUB/jarvis) | Personal assistant project inspired by Iron Man’s Jarvis | Python, JavaScript |
+| [medbot](https://github.com/Rohith-AI-HUB/medbot) | AI-powered medical chatbot for healthcare queries | Python, JavaScript |
 
 ---
 
