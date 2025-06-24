@@ -39,8 +39,9 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the intersect
 
 ## 📈 GitHub Stats
 
-![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohith-AI-HUB&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-AI-HUB&layout=compact&theme=radical)
+![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohith-AI-HUB&show_icons=true&theme=radical&hide_title=true&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-AI-HUB&layout=compact&theme=radical&hide_title=true)
+
 
 ---
 
