@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rohith!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EFF&width=500&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Web+Developer;Open+Source+Contributor;Building+the+Future+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EFF&width=500&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Web+Developer;Building+the+Future+with+Code" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -109,8 +109,6 @@ Welcome to my digital workspace! I'm a passionate developer at the intersection 
 
 - 🤖 **AI Research:** Exploring advanced multi-agent systems and their applications in real-world scenarios
 - 🌐 **Web Innovation:** Building next-generation web applications with AI integration
-- 📚 **Knowledge Sharing:** Creating tutorials and resources for the developer community
-- 🔬 **Open Source:** Contributing to impactful open source projects in AI and web development
 
 ---
 
