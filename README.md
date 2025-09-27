@@ -68,21 +68,6 @@ class RohithAIHub:
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🤖 Multi-Agent Chatbot System</h3>
-        <div align="center">
-          <a href="https://github.com/Rohith-AI-HUB/Multi-Agent-Chatbot">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-AI-HUB&repo=Multi-Agent-Chatbot&theme=tokyonight&hide_border=true" alt="Multi-Agent-Chatbot" />
-          </a>
-          <br/><br/>
-          <p>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-            <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square" />
-            <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-          </p>
-          <p><strong>Enterprise-grade conversational AI with specialized agents</strong></p>
-        </div>
-      </td>
-      <td width="50%">
         <h3 align="center">🎯 J.A.R.V.I.S Assistant</h3>
         <div align="center">
           <a href="https://github.com/Rohith-AI-HUB/jarvis">
@@ -248,9 +233,6 @@ class RohithAIHub:
   </a>
   <a href="https://github.com/Rohith-AI-HUB">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://twitter.com/RohithAIHub">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://dev.to/rohithaihub">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
