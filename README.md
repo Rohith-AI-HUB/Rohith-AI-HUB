@@ -1,173 +1,147 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> Welcome to Rohith's AI Innovation Lab
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> Welcome to Rohith's AI & Product Lab
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=280&section=header&text=Rohith%20AI%20Hub&fontSize=90&fontAlignY=35&desc=Building%20Tomorrow's%20Intelligence%20Today&descAlignY=55&animation=fadeIn" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=260&section=header&text=Rohith%20B&fontSize=82&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Projects%20%7C%20Product%20Builds&descAlignY=55&animation=fadeIn" alt="Header" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EFF&center=true&vCenter=true&random=false&width=900&lines=🤖+AI+%26+Machine+Learning+Architect;🚀+Full+Stack+Innovation+Engineer;🧠+Multi-Agent+Systems+Specialist;💡+Transforming+Ideas+into+Intelligent+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=2E9EFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+AI-backed+web+and+desktop+apps;Exploring+education+systems%2C+ML%2C+and+product+UX;Shipping+with+React%2C+TypeScript%2C+Python%2C+and+Node.js" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Rohith-AI-HUB&color=2E9EFF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Rohith-AI-HUB?style=for-the-badge&color=2E9EFF&label=FOLLOWERS" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Rohith-AI-HUB?affiliations=OWNER&style=for-the-badge&color=2E9EFF&label=TOTAL%20STARS" alt="GitHub Stars" />
-  <a href="https://wakatime.com/@Rohith_AI_HUB">
-    <img src="https://img.shields.io/badge/Coding%20Time-2000+%20hrs-2E9EFF?style=for-the-badge&logo=wakatime" alt="Wakatime" />
+  <img src="https://img.shields.io/github/stars/Rohith-AI-HUB?affiliations=OWNER&style=for-the-badge&color=2E9EFF&label=TOTAL+STARS" alt="GitHub Stars" />
+  <a href="https://portfolio-murex-rho-39.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-2E9EFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+## About Me
 
----
+I'm a full-stack developer from Bengaluru focused on building practical software, not just demos. My public work currently spans local-first desktop tools, AI-assisted education systems, applied machine learning projects, and frontend-heavy web products.
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-### 🌟 **The Developer Behind the Code**
-
-I'm a **visionary developer** crafting the future at the intersection of **Artificial Intelligence** and **Web Innovation**. With a passion for building intelligent systems that seamlessly integrate into everyday life, I transform complex algorithms into elegant, user-centric solutions.
-
-```python
-class RohithAIHub:
-    def __init__(self):
-        self.name = "Rohith B"
-        self.role = "AI/ML Engineer & Full Stack Developer"
-        self.location = "India 🇮🇳"
-        self.current_focus = ["Multi-Agent Systems", "Conversational AI", "Cloud Architecture"]
-        self.life_philosophy = "Innovation through Intelligence, Impact through Code"
-        
-    def currently_working_on(self):
-        return {
-            "🔬 Research": "Advanced Multi-Agent Orchestration",
-            "🚀 Project": "Enterprise-grade AI Solutions",
-            "📚 Learning": "Quantum Computing & AI Integration",
-            "🌍 Contributing": "Open Source AI Tools"
-        }
+```ts
+const rohith = {
+  role: "Full Stack Developer",
+  location: "Bengaluru, India",
+  focus: [
+    "React and Next.js product builds",
+    "TypeScript and Node.js applications",
+    "Python-based AI and ML projects",
+    "Desktop tools with Tauri"
+  ],
+  currentDirection: [
+    "Local-first knowledge tools",
+    "AI-assisted scheduling systems",
+    "Course planning and recommendation workflows",
+    "Applied healthcare ML experiments"
+  ]
+};
 ```
 
-### 🎯 **Core Competencies**
-- **🧠 AI Architecture:** Designing scalable multi-agent systems and neural networks
-- **💻 Full Stack Mastery:** Building end-to-end applications with modern tech stacks
-- **☁️ Cloud Solutions:** Deploying AI models at scale on cloud infrastructure
-- **🔐 Security First:** Implementing robust security in AI applications
-- **📊 Data Science:** Transforming raw data into actionable insights
-
----
-
-## 🚀 Featured Projects Showcase
+## Featured Projects
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🎯 J.A.R.V.I.S Assistant</h3>
-        <div align="center">
-          <a href="https://github.com/Rohith-AI-HUB/jarvis">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-AI-HUB&repo=jarvis&theme=tokyonight&hide_border=true" alt="JARVIS" />
-          </a>
-          <br/><br/>
-          <p>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-            <img src="https://img.shields.io/badge/NLP-FF6B6B?style=flat-square" />
-            <img src="https://img.shields.io/badge/Voice-4ECDC4?style=flat-square" />
-          </p>
-          <p><strong>AI-powered personal assistant with voice recognition</strong></p>
-        </div>
+        <a href="https://github.com/Rohith-AI-HUB/personal-canvas">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-AI-HUB&repo=personal-canvas&theme=tokyonight&hide_border=true" alt="personal-canvas" />
+        </a>
+        <p><strong>Personal Canvas</strong><br/>A local-first desktop knowledge canvas for organizing files, searching content, and chatting with your data. Built with React, Vite, Fastify, Tauri, SQLite, and optional Qdrant support.</p>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/Rohith-AI-HUB/Task_Scheduling_Agent_V2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-AI-HUB&repo=Task_Scheduling_Agent_V2&theme=tokyonight&hide_border=true" alt="Task Scheduling Agent V2" />
+        </a>
+        <p><strong>Task Scheduling Agent V2</strong><br/>An AI-enhanced classroom management platform with smart scheduling, group formation, extension analysis, and auto-evaluation workflows.</p>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">🏥 MedBot Healthcare AI</h3>
-        <div align="center">
-          <a href="https://github.com/Rohith-AI-HUB/medbot">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-AI-HUB&repo=medbot&theme=tokyonight&hide_border=true" alt="MedBot" />
-          </a>
-          <br/><br/>
-          <p>
-            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-            <img src="https://img.shields.io/badge/Healthcare-4ECDC4?style=flat-square" />
-            <img src="https://img.shields.io/badge/ML-FF4757?style=flat-square" />
-          </p>
-          <p><strong>Intelligent medical assistant with diagnostic capabilities</strong></p>
-        </div>
+        <a href="https://github.com/Rohith-AI-HUB/Adaptive_Course_Planning_System">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-AI-HUB&repo=Adaptive_Course_Planning_System&theme=tokyonight&hide_border=true" alt="Adaptive Course Planning System" />
+        </a>
+        <p><strong>Adaptive Course Planning System</strong><br/>A course recommendation engine combining fuzzy logic, TensorFlow-based grade prediction, and particle swarm optimization for subject selection.</p>
       </td>
       <td width="50%">
-        <h3 align="center">🛡️ S.P.E.A.R Security Suite</h3>
-        <div align="center">
-          <a href="https://github.com/Rohith-AI-HUB/S.P.E.A.R">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-AI-HUB&repo=S.P.E.A.R&theme=tokyonight&hide_border=true" alt="SPEAR" />
-          </a>
-          <br/><br/>
-          <p>
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-            <img src="https://img.shields.io/badge/Security-FF4757?style=flat-square" />
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-          </p>
-          <p><strong>Advanced threat detection and prevention system</strong></p>
-        </div>
+        <a href="https://github.com/Rohith-AI-HUB/PhysioNetSepsisPrediction">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-AI-HUB&repo=PhysioNetSepsisPrediction&theme=tokyonight&hide_border=true" alt="PhysioNetSepsisPrediction" />
+        </a>
+        <p><strong>PhysioNet Sepsis Prediction</strong><br/>A machine learning workflow focused on early sepsis risk prediction using ICU patient data and clinical time-series signals.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/Rohith-AI-HUB/Feedback-APP">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-AI-HUB&repo=Feedback-APP&theme=tokyonight&hide_border=true" alt="Feedback APP" />
+        </a>
+        <p><strong>Feedback App</strong><br/>A full-stack feedback platform with a React frontend and a Node.js/Express backend for collecting and managing user feedback.</p>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/Rohith-AI-HUB/spearwebsite">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-AI-HUB&repo=spearwebsite&theme=tokyonight&hide_border=true" alt="spearwebsite" />
+        </a>
+        <p><strong>SPEAR Website</strong><br/>A security-themed frontend project deployed on Vercel, representing the web presence for the broader SPEAR work.</p>
       </td>
     </tr>
   </table>
 </div>
 
----
-
-## 💻 Technology Stack & Expertise
+## Stack I Actually Use
 
 <div align="center">
 
-### 🧠 **Artificial Intelligence & Machine Learning**
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,html,css" alt="Languages" />
 </p>
 
-### 💻 **Programming Languages**
+### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,go" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend" />
 </p>
 
-### 🎨 **Frontend Technologies**
+### Backend and Product Engineering
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,sass,figma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,sqlite" alt="Backend" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" />
 </p>
 
-### ⚙️ **Backend & Database**
+### AI and ML
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Fuzzy%20Logic-1F6FEB?style=for-the-badge" alt="Fuzzy Logic" />
+  <img src="https://img.shields.io/badge/Optimization-111827?style=for-the-badge" alt="Optimization" />
 </p>
 
-### ☁️ **Cloud & DevOps**
+### Tooling and Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,githubactions,terraform" />
-</p>
-
-### 🛠️ **Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,linux,nginx,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel" alt="Tooling" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
 </p>
 
 </div>
 
----
+## Current Build Themes
 
-## 📊 Performance Analytics
+- Local-first tools for search, organization, and personal knowledge workflows
+- AI-assisted systems for scheduling, recommendations, and classroom operations
+- Applied ML experiments in education and healthcare contexts
+- Product-style web experiences with React, Next.js, and TypeScript
+
+## GitHub Analytics
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rohith-AI-HUB&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7&icon_color=02D9F7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-AI-HUB&layout=compact&hide_border=true&title_color=02D9F7&text_color=c9d1d9&bg_color=0d1117&langs_count=10" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-AI-HUB&layout=compact&hide_border=true&title_color=02D9F7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -178,53 +152,13 @@ class RohithAIHub:
   <img src="https://github-profile-trophy.vercel.app/?username=Rohith-AI-HUB&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </div>
 
-### 📈 **Contribution Activity**
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohith-AI-HUB&custom_title=Rohith's%20Contribution%20Graph&bg_color=0d1117&color=02D9F7&line=02D9F7&point=fff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohith-AI-HUB&custom_title=Rohith's%20Contribution%20Graph&bg_color=0d1117&color=02D9F7&line=02D9F7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
----
-
-## 🎯 Current Focus & Future Goals
+## Connect
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-        <br/><strong>🔬 Research</strong>
-        <br/>Quantum-AI Integration
-        <br/>Advanced Neural Architectures
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-        <br/><strong>🚀 Building</strong>
-        <br/>Enterprise AI Solutions
-        <br/>Open Source Tools
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-        <br/><strong>📚 Learning</strong>
-        <br/>Edge Computing
-        <br/>Blockchain Integration
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
-  
-  <h3>💡 Open for Opportunities in:</h3>
-  
-  **🚀 AI/ML Engineering** | **💼 Full Stack Development** | **🤝 Open Source Contributions** | **🎯 Technical Consulting**
-  
-  <br/>
-  
   <a href="https://www.linkedin.com/in/rohith-b-04082003rb/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -234,46 +168,18 @@ class RohithAIHub:
   <a href="https://github.com/Rohith-AI-HUB">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://portfolio-murex-rho-39.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2E9EFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Site" />
+  </a>
   <a href="https://dev.to/rohithaihub">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
   </a>
-  
-  <br/><br/>
-  
-  ### 📬 **Quick Response Time:** Usually within 24 hours
-  
 </div>
 
----
-
-## 💭 Daily Development Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
-## 🎮 When I'm Not Coding
-
-<div align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-  
-  **🎯 Competitive Programming** | **📚 Tech Blogs** | **🎮 Gaming** | **🏃 Fitness** | **📖 Sci-Fi Novels**
-</div>
-
----
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=120&section=footer&animation=fadeIn" alt="Footer" />
-  
-  ### ⚡ "Code is poetry, AI is the future, and together they create magic" ⚡
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-  
-  **Thank you for visiting! Let's build something extraordinary together! 🚀**
-  
   <br/>
-  
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
